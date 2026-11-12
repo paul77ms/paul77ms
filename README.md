@@ -21,7 +21,7 @@ to start.
 | 인공지능 비트 트레이더 경진대회 시즌3 | 🥉 **3rd** / 1,411 |
 | 건설기계 오일 상태 분류 AI 경진대회 | 🏅 우수상 / 1,309 |
 | 잡케어 추천 알고리즘 경진대회 | 🏅 장려상 / 1,439 |
-| 운동 동작 분류 AI 경진대회 | **7th** / 1,280 |
+| 운동 동작 분류 AI 경진대회 | 🎖️ **7th** / 1,280 |
 | [Space-S × KaKR] 그래프 러닝 해커톤 | 🏅 코드 공유상 |
 
 > Prize money from the COVID-19 audio detection competition was donated to Save
