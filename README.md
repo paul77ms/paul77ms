@@ -24,8 +24,6 @@ to start.
 | 운동 동작 분류 AI 경진대회 | **7th** / 1,280 |
 | 2021 인공지능 경진대회 | **6th** |
 | [Space-S × KaKR] 그래프 러닝 해커톤 | 🏅 코드 공유상 |
-| 충북인공지능교육 캐글 챌린지 (chai) | 🥈 **2nd** |
-| Kaggle — Titanic | Top 3% |
 
 > Prize money from the COVID-19 audio detection competition was donated to Save
 > the Children Korea.
