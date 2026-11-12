@@ -1,16 +1,31 @@
-## Hi there 👋
+## Minsoo Kim (paulms77) 👋
 
-<!--
-**paul77ms/paul77ms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:clash833277@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/paulms77?style=flat-square&logo=github)](https://github.com/paulms77)
+[![DACON](https://img.shields.io/badge/DACON-3776AB?style=flat-square&logoColor=white)](https://dacon.io/myprofile/412049/home)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/paul77ms)
 
-Here are some ideas to get you started:
+Machine learning and data science, mostly competitions — tabular, time series,
+audio, vision and LLM/RAG. Below is a map of what is in this profile and where
+to start.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏆 Competition results
+
+| Competition | Result |
+| --- | --- |
+| 음향 데이터 COVID-19 검출 AI 경진대회 | 🥇 **1st** / 686 |
+| 물류 유통량 예측 경진대회 | 🥈 **2nd** / 848 |
+| Synthetic AKI Data Challenge 2023 | 🥈 **2nd** / 67 · 우수상 |
+| 인공지능 비트 트레이더 경진대회 시즌3 | 🥉 **3rd** / 1,411 |
+| 건설기계 오일 상태 분류 AI 경진대회 | 🏅 우수상 / 1,309 |
+| 잡케어 추천 알고리즘 경진대회 | 🏅 장려상 / 1,439 |
+| 운동 동작 분류 AI 경진대회 | **7th** / 1,280 |
+| 2021 인공지능 경진대회 | **6th** |
+| [Space-S × KaKR] 그래프 러닝 해커톤 | 🏅 코드 공유상 |
+| 충북인공지능교육 캐글 챌린지 (chai) | 🥈 **2nd** |
+| Kaggle — Titanic | Top 3% |
+
+> Prize money from the COVID-19 audio detection competition was donated to Save
+> the Children Korea.
