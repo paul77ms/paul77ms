@@ -1,7 +1,6 @@
 ## Minsoo Kim (paul77ms) 👋
 
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:clash833277@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/paulms77?style=flat-square&logo=github)](https://github.com/paulms77)
 [![DACON](https://img.shields.io/badge/DACON-3776AB?style=flat-square&logoColor=white)](https://dacon.io/myprofile/412049/home)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/paul77ms)
 
