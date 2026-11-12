@@ -1,4 +1,4 @@
-## Minsoo Kim (paulms77) 👋
+## Minsoo Kim (paul77ms) 👋
 
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:clash833277@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/paulms77?style=flat-square&logo=github)](https://github.com/paulms77)
